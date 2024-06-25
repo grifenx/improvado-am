@@ -16,7 +16,6 @@ This project implements four different marketing attribution models using ClickH
 - **`ma_last_touch.sql`**: Last touch attribution sample.
 - **`ma_linear.sql`**: Linear attribution sample.
 - **`ma_u_shaped.sql`**: U-shaped attribution sample.
-- **`data/`**: Contains sample data files used for testing.
 - **`marketing_dummy_data.csv`**: Sample marketing data used to test the SQL scripts.
 
 ## Known Assumptions and Limitations
